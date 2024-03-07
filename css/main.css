@@ -448,7 +448,7 @@ background: #000;
   height: 100vh;
   text-align: center;
   overflow: hidden;
-  background: linear-gradient(rgba(218, 205, 196, 0.4), rgba(0,0,0,0.4)), url('/images/Ultra.jpg') no-repeat center center fixed;
+  background: linear-gradient(rgba(218, 205, 196, 0.4), rgba(0,0,0,0.4)), url('images/Ultra.jpg') no-repeat center center fixed;
 	background-size: cover;
 }
 .hero-content{
@@ -810,7 +810,7 @@ header .navbar-nav .nav-link:before {
 /* Contact */
 #contacto {
   position: relative;
-  background: linear-gradient(rgba(218, 205, 196, 0.4), rgba(0,0,0,0.4)), url('/images/Ultra.jpg') no-repeat center center fixed;
+  background: linear-gradient(rgba(218, 205, 196, 0.4), rgba(0,0,0,0.4)), url('images/Ultra.jpg') no-repeat center center fixed;
 	background-size: cover;
   padding: 100px 0;
   height: 111vh;
